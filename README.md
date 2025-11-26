@@ -1,3 +1,8 @@
+# Esto es un fork para hacer pruebas de lo siguiente:
+```
+https://gitlab.ics.muni.cz/muni-kypo-trainings/games/junior-hacker
+```
+No es de mi autoria.
 # Cybersecurity game "Junior hacker training"
 
 Linear game for [KYPO CRP](https://docs.crp.kypo.muni.cz/) and a sandbox created by [Cyber Sandbox Creator](https://gitlab.ics.muni.cz/muni-kypo-csc/cyber-sandbox-creator/-/wikis/home).
